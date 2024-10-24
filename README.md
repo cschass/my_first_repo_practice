@@ -1,1 +1,1 @@
-# my_first_repo_practice
+This is practice for the first round of lessons
